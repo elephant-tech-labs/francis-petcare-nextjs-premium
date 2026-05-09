@@ -52,3 +52,61 @@ public/
     services/
     reviews/
     videos/
+
+Recommended structure:
+
+public/images/brand/
+  francis-petcare-logo.svg
+  francis-petcare-logo-mark.svg
+
+public/images/clinic/
+  clinic-exterior-placeholder.jpg
+  reception-placeholder.jpg
+  exam-room-placeholder.jpg
+  treatment-room-placeholder.jpg
+  front-desk-placeholder.jpg
+  hallway-placeholder.jpg
+
+public/images/doctors/
+  dr-bhatia-placeholder.jpg
+  dr-martinez-placeholder.jpg
+  team-placeholder.jpg
+  doctor-with-pet-placeholder.jpg
+  doctor-with-exotic-pet-placeholder.jpg
+
+public/images/pets/
+  dog-care-placeholder.jpg
+  puppy-care-placeholder.jpg
+  cat-care-placeholder.jpg
+  kitten-care-placeholder.jpg
+  senior-pet-care-placeholder.jpg
+
+public/images/exotic/
+  rabbit-care-placeholder.jpg
+  reptile-care-placeholder.jpg
+  snake-care-placeholder.jpg
+  lizard-care-placeholder.jpg
+  hamster-care-placeholder.jpg
+  guinea-pig-care-placeholder.jpg
+  ferret-care-placeholder.jpg
+  hedgehog-care-placeholder.jpg
+  small-mammal-care-placeholder.jpg
+
+public/images/services/
+  dental-care-placeholder.jpg
+  surgery-placeholder.jpg
+  spay-neuter-placeholder.jpg
+  diagnostics-placeholder.jpg
+  vaccinations-placeholder.jpg
+  urgent-care-placeholder.jpg
+  cat-boarding-placeholder.jpg
+  in-home-euthanasia-placeholder.jpg
+  hospice-care-placeholder.jpg
+
+public/images/reviews/
+  google-review-placeholder.jpg
+
+public/images/videos/
+  clinic-walkthrough-placeholder.mp4
+  exotic-care-placeholder.mp4
+  doctor-introduction-placeholder.mp4
