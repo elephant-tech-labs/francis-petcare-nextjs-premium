@@ -539,3 +539,4 @@ Avoid random external images.
 Avoid fake doctor photos.
 Avoid bird imagery.
 Ensure image cards are premium and brand-aligned.
+Ensure homepage and service pages can be upgraded by replacing image files only
